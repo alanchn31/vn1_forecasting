@@ -1,0 +1,7 @@
+segment,model,eval_function,WAPE
+ALL,forecast_arima,WAPE,0.586
+ALL,forecast_lkv,WAPE,0.544
+ALL,forecast_ma3,WAPE,0.553
+ALL,forecast_local_lgb_recursive,WAPE,0.628
+ALL,forecast_local_lgb_direct,WAPE,0.631
+ALL,forecast_global_lgb_recursive,WAPE,0.535
